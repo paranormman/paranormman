@@ -11,8 +11,7 @@ My name is Manoj. I have a keen interest in Java and Spring Boot, which has driv
 - 📫 You can reach me at [shiv.manoj23@gmail.com](mailto:shiv.manoj23@gmail.com).
 
 ## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/manoj-shivaprakash-8b6188181/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/manoj-shivaprakash-8b6188181/))
 
 ## Tech Stack
 
