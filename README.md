@@ -8,7 +8,7 @@ I have a keen interest in Java and Spring Boot, which has driven much of my prof
 💼 Working on exciting projects related to Nutanix, cloud solutions and Web Development\
 🎓 I have a background in Computer Science and have been exploring various technologies in the software development space\
 💬 Feel free to ask me about Java, Spring Boot, RESTful APIs and cloud infrastructure\
-📫 You can reach me at [shiv.manoj23@gmail.com](mailto:shiv.manoj23@gmail.com)I'll be happy to help
+📫 You can reach me at [shiv.manoj23@gmail.com](mailto:shiv.manoj23@gmail.com)
 
 ## 🌐 Socials:
 
